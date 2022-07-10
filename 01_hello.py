@@ -1,7 +1,2 @@
-'''
-Author: Harry
-Licenced to: ABC Company
-***********Thanks for reading**********
-'''
-import os # importing the os module 
+import os 
 print("Hello world")
