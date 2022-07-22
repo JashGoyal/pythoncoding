@@ -1,0 +1,5 @@
+a = {}
+print(type(a))
+
+b = set()
+print(type(b))
